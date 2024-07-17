@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/HockeyMasteryV2/static/css/main.6986ae72.css",
+    "main.js": "/HockeyMasteryV2/static/js/main.6dbbe9de.js",
+    "static/media/video5.mp4": "/HockeyMasteryV2/static/media/video5.72a7a1640d534bf4b564.mp4",
+    "static/media/Coach5.jpeg": "/HockeyMasteryV2/static/media/Coach5.bfdbf676588d122a56c5.jpeg",
+    "static/media/shootout.jpeg": "/HockeyMasteryV2/static/media/shootout.fbd1fda3a931019bd799.jpeg",
+    "static/media/logo.jpg": "/HockeyMasteryV2/static/media/logo.9d41901f2c3c95218432.jpg",
+    "static/media/nhl2.jpeg": "/HockeyMasteryV2/static/media/nhl2.817ef9f3bb1ea7b208cb.jpeg",
+    "static/media/dribbling.jpeg": "/HockeyMasteryV2/static/media/dribbling.97288b8cfab2afed43bf.jpeg",
+    "static/media/sharks4.jpg": "/HockeyMasteryV2/static/media/sharks4.7dc8cc1cfb4f35354b36.jpg",
+    "static/media/sharks1.jpg": "/HockeyMasteryV2/static/media/sharks1.c0db1e66629edacc6b6f.jpg",
+    "static/media/sharks2.jpg": "/HockeyMasteryV2/static/media/sharks2.f62f72f94c1bcbbd29f6.jpg",
+    "static/media/nhl.jpeg": "/HockeyMasteryV2/static/media/nhl.4bb93b6fe9098b5b22c2.jpeg",
+    "static/media/Coach1.jpeg": "/HockeyMasteryV2/static/media/Coach1.85d18543d2b1b25fa624.jpeg",
+    "static/media/nhl3.jpeg": "/HockeyMasteryV2/static/media/nhl3.088d296d41fcccadb5b7.jpeg",
+    "static/media/coach4.jpeg": "/HockeyMasteryV2/static/media/coach4.c88dedf95e8deb794098.jpeg",
+    "index.html": "/HockeyMasteryV2/index.html",
+    "main.6986ae72.css.map": "/HockeyMasteryV2/static/css/main.6986ae72.css.map",
+    "main.6dbbe9de.js.map": "/HockeyMasteryV2/static/js/main.6dbbe9de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6986ae72.css",
+    "static/js/main.6dbbe9de.js"
+  ]
+}
