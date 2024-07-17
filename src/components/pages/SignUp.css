@@ -1,0 +1,63 @@
+.sign-up-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Full viewport height */
+    background: url('/src/images/nhl2.jpeg') no-repeat center center ;
+    background-size:cover;
+}
+
+.sign-up-container {
+    max-width: 400px;
+    padding: 2rem;
+    background: rgb(0, 0, 0); /* Semi-transparent background */
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(2, 51, 143, 0.1);
+    color: #ffffff;
+}
+
+.sign-up-container h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+   
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    background: #ffffff;
+    color: #000000;
+}
+
+.btn.btn--primary.btn--medium {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    width: 100%;
+    text-align: center;
+    color: white;
+    
+}
+
+.btn:hover{
+    border-color: #ffffff;
+}
+

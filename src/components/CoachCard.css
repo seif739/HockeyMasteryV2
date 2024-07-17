@@ -1,0 +1,39 @@
+.coach-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(15, 15, 15, 0.922);
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .coach-image {
+    width: 100%;
+  height: auto;
+  max-width: 200px; 
+  max-height: 200px; 
+  border-radius: 50%; 
+  object-fit: cover; 
+  margin-bottom: 1rem;
+  }
+
+  
+  .coach-name {
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+  }
+
+  
+  .coach-description {
+    margin-bottom: 1rem;
+    color: #ffffff;
+    font-size: 1rem;
+  }
+  
+  .coach-details {
+    text-align: center;
+    color: #ffffff;
+  }
+  

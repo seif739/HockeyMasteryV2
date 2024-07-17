@@ -1,0 +1,49 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -300px;
+    width: 300px;
+    height: 100%;
+    background: linear-gradient(-45deg, rgb(3, 134, 157) 0%, rgb(26, 23, 23) 100%);
+    color: #fff;
+    transition: left 0.3s ease;
+    padding: 20px;
+    z-index: 1000;
+    border-radius: 10px;
+  }
+  
+  .sidebar.open {
+    left: 0;
+  }
+  
+  .close-btn {
+    background: #a50000;
+    color: #fff;
+    border-radius: 10px;
+    padding-left: 120px;
+    padding-right: 120px;
+    cursor: pointer;
+    
+  }
+
+  .close-btn:hover{
+    background-color: rgb(255, 0, 0);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .faceted-search {
+    margin-top: 30px;
+  }
+  
+  .faceted-search label {
+    display: block;
+    margin-bottom: 30px;
+  }
+  
+  .faceted-search select {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid #000000;
+  }
+  
